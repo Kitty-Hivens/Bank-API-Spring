@@ -50,8 +50,8 @@ Hibernate автоматически генерирует следующую с�
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/Kitty-Hivens/Bank.git
-    cd Bank
+    git clone https://github.com/Kitty-Hivens/Bank-API-Spring.git
+    cd Bank-API-Spring
     ```
 
 2.  **Настройте базу данных:**
